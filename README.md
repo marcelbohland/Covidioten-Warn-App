@@ -2,7 +2,7 @@
 
 This app is an art/satire project. This app is meant to draw attention to people who deliberately ignore the Corona Rules of Conduct.
 
-#Licensing
+# Licensing
 
 Copyright (c) 2020 SAP SE or an SAP affiliate company.
 
